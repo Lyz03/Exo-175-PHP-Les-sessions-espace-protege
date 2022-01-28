@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    color: gray;
+}
+
+input[type=submit] {
+    border: none;
+    color: white;
+    background-color: rgba(80, 147, 153, 0.51);
+    padding: 0.3rem 0.5rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+a {
+    color: rgba(80, 147, 153, 0.51);
+    text-decoration: none;
+}
+
+p, form {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.red {
+    color: rgba(168, 68, 78, 0.51);
+}
+
+.green {
+    color: rgba(60, 160, 77, 0.51);
+}
